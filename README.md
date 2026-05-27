@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Counting
 |  |
@@ -24,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 <!---LeetCode Topics End-->
