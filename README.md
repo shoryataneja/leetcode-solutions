@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/shoryataneja/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3908-valid-digit-number](https://github.com/shoryataneja/leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
 | ------- |
