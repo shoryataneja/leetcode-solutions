@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/shoryataneja/leetcode-solutions/tree/master/2540-minimum-common-value) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
