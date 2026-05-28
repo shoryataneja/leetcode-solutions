@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Counting
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Sorting
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
