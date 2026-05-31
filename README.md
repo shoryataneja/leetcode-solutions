@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shoryataneja/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shoryataneja/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/shoryataneja/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
