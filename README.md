@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/shoryataneja/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shoryataneja/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3908-valid-digit-number](https://github.com/shoryataneja/leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
