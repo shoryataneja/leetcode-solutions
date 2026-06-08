@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3908-valid-digit-number](https://github.com/shoryataneja/leetcode-solutions/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/shoryataneja/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3945-digit-frequency-score](https://github.com/shoryataneja/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
