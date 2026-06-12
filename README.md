@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shoryataneja/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shoryataneja/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/shoryataneja/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shoryataneja/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shoryataneja/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shoryataneja/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shoryataneja/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
