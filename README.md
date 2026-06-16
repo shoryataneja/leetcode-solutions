@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/shoryataneja/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [2540-minimum-common-value](https://github.com/shoryataneja/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shoryataneja/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shoryataneja/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
