@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shoryataneja/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/shoryataneja/leetcode-solutions/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/shoryataneja/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
