@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shoryataneja/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shoryataneja/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shoryataneja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shoryataneja/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shoryataneja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shoryataneja/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shoryataneja/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shoryataneja/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shoryataneja/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/shoryataneja/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shoryataneja/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shoryataneja/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/shoryataneja/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
