@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shoryataneja/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/shoryataneja/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shoryataneja/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shoryataneja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shoryataneja/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/shoryataneja/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/shoryataneja/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/shoryataneja/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shoryataneja/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
