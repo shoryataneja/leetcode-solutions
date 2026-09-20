@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/shoryataneja/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shoryataneja/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/shoryataneja/leetcode-solutions/tree/master/3136-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/shoryataneja/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/shoryataneja/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Sorting
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shoryataneja/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/shoryataneja/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
